@@ -1,5 +1,5 @@
 {
-  "name": "@l42y/react-scratchcard",
+  "name": "react-scratcher",
   "version": "2.0.0",
   "description": "React component for displaying scratch card in your web app.",
   "main": "lib/index.js",
@@ -10,6 +10,7 @@
   },
   "keywords": [
     "React",
+    "scratcher",
     "Scratchcard"
   ],
   "author": "Aleksi Kaistinen <aleksi.kaistinen@allu.io> (http://allu.io)",
